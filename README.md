@@ -1,6 +1,6 @@
 # 24K-0837-
-+My Programming Fundamentals Repo
--👋 Hi, I'm Manisha Sadhwani!
++ My Programming Fundamentals Repo
+- 👋 Hi, I'm Manisha Sadhwani!
 *🌟 About Me
 +🎓 Student at FAST National University of Computer and Emerging Sciences, Karachi.
 +💻 Pursuing a degree in Computer Science.
